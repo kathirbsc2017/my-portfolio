@@ -18,9 +18,9 @@ export const stats = [
 export const skills = {
   Frontend: ["React.js", "AngularJS", "JavaScript", "TypeScript", "HTML5/CSS3", "Material UI", "Bootstrap", "Recharts", "jQuery"],
   Backend: ["Node.js", "Express.js", "REST APIs", "JWT", "WebSocket", "PHP", "Laravel"],
-  "AI and integrations": ["OpenAI", "Claude", "Prompt engineering", "Stripe", "PayPal", "Xero/QuickBooks webhooks"],
-  "Data and cloud": ["MySQL", "PostgreSQL", "AWS S3"],
-  Practices: ["Git/GitHub", "GitHub CI/CD pipeline", "Postman", "Agile/Scrum", "Unit testing", "Code reviews"],
+  "AI and integrations": ["OpenAI", "Claude", "Prompt engineering", "Stripe", "PayPal", "Webhooks"],
+  "Data and cloud": ["MySQL", "PostgreSQL", "AWS", "Microsoft Azure", "AWS S3"],
+  Practices: ["Git/GitHub", "CI/CD pipeline", "Postman", "Agile/Scrum", "Unit testing", "Code reviews"],
 };
 
 export const projects = [
