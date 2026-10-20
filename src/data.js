@@ -18,7 +18,7 @@ export const stats = [
 export const skills = {
   Frontend: ["React.js", "AngularJS", "JavaScript", "TypeScript", "HTML5/CSS3", "Material UI", "Bootstrap", "Recharts", "jQuery"],
   Backend: ["Node.js", "Express.js", "REST APIs", "JWT", "WebSocket", "PHP", "Laravel"],
-  "AI and integrations": ["OpenAI API", "Claude API", "Prompt engineering", "Stripe", "PayPal", "Xero/QuickBooks webhooks"],
+  "AI and integrations": ["OpenAI", "Claude", "Prompt engineering", "Stripe", "PayPal", "Xero/QuickBooks webhooks"],
   "Data and cloud": ["MySQL", "PostgreSQL", "AWS S3"],
   Practices: ["Git/GitHub", "GitHub CI/CD pipeline", "Postman", "Agile/Scrum", "Unit testing", "Code reviews"],
 };
@@ -60,7 +60,7 @@ export const job = {
   points: [
     "Delivered 8 full-lifecycle platforms, owning requirements through deployment.",
     "Improved user engagement by 25% with responsive React.js apps on Node.js/Express.js and PHP APIs.",
-    "Integrated OpenAI and Claude APIs and applied prompt engineering, working with AI/Python engineers.",
+    "Integrated OpenAI and Claude AI and applied prompt engineering, working with AI/Python engineers.",
     "Shipped RESTful APIs and Stripe and PayPal payments, including bulk payments and webhooks.",
     "Migrated a legacy frontend from React 15 to React 19.",
     "Optimised MySQL and PostgreSQL schemas for multi-tenant apps; built AWS S3 file and media pipelines.",
