@@ -20,7 +20,7 @@ export const skills = {
   Backend: ["Node.js", "Express.js", "REST APIs", "JWT", "WebSocket", "PHP", "Laravel"],
   "AI and integrations": ["OpenAI API", "Claude API", "Prompt engineering", "Stripe", "PayPal", "Xero/QuickBooks webhooks"],
   "Data and cloud": ["MySQL", "PostgreSQL", "AWS S3"],
-  Practices: ["Git/GitHub", "CI/CD pipeline", "Postman", "Agile/Scrum", "Unit testing", "Code reviews"],
+  Practices: ["Git/GitHub", "GitHub CI/CD pipeline", "Postman", "Agile/Scrum", "Unit testing", "Code reviews"],
 };
 
 export const projects = [
